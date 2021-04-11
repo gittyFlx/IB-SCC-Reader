@@ -7,7 +7,7 @@ namespace IB_SCC_Reader {
     public partial class MainWindow : Window {
         const string CardCodesFilename = @"codes.txt";
         const byte MaxCodes = 1 + 224;// the very last number on the card
-        string[] Codes = new string[MaxCodes];
+        readonly string[] Codes = new string[MaxCodes];
         public MainWindow() {
             InitializeComponent();
             MainWindow1.Left = SystemParameters.PrimaryScreenWidth /2; 
