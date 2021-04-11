@@ -1,5 +1,4 @@
-# IB-SCC-Reader
-Interactive Brokers Security Code Card Reader
+# Interactive Brokers Security Code Card Reader
 
 What does it do?
   During login to IB, it speeds up the tedious task of looking up the
