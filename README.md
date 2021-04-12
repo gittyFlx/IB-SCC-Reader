@@ -1,10 +1,10 @@
-# Interactive Brokers Security Code Card Reader
+# Interactive Brokers Login Security Code Card Reader
 
-What does it do? <br/>
+### What does it do? <br/>
 &#160;&#160;&#160;&#160;During login to IB, it speeds up the tedious task of looking  <br/>
 &#160;&#160;&#160;&#160;up the two numbers on the security code card and typing of  <br/>
 &#160;&#160;&#160;&#160;the respective code combination. <br/>
-How does it work? <br/>
+### How does it work? <br/>
 &#160;&#160;&#160;&#160;Before first use, create text file "codes.txt" and (only once) <br/>
 &#160;&#160;&#160;&#160;enter all 224 codes. One per line, 224 lines. Only the codes, <br/>
 &#160;&#160;&#160;&#160;without the line numbers. <br/>
