@@ -16,6 +16,6 @@ How does it work? <br/>
 &#160;&#160;&#160;&#160;Put "codes.txt" in the same directory as this program's .exe file. <br/>
 &#160;&#160;&#160;&#160;When during the login process prompted for the codes of the two <br/>
 &#160;&#160;&#160;&#160;numbers displayed, start this little program and type in the 1st <br/>
-&#160;&#160;&#160;&#160;number <enter> and the 2nd number <enter>. The program closes but the <br/>
+&#160;&#160;&#160;&#160;number [enter] and the 2nd number [enter]. The program closes but the <br/>
 &#160;&#160;&#160;&#160;resulting code is now in the clipboard. Paste it into the login field <br/>
 &#160;&#160;&#160;&#160;with the keyboard combination Ctrl-v (paste) and continue login to IB. <br/>
